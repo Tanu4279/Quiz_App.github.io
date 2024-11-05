@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tanu4279/Quiz_App.github.io./static/css/main.94d0dca2.css",
-    "main.js": "/Tanu4279/Quiz_App.github.io./static/js/main.029340fd.js",
-    "static/js/453.fc01f49c.chunk.js": "/Tanu4279/Quiz_App.github.io./static/js/453.fc01f49c.chunk.js",
-    "static/media/logo.svg": "/Tanu4279/Quiz_App.github.io./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Tanu4279/Quiz_App.github.io./index.html",
-    "main.94d0dca2.css.map": "/Tanu4279/Quiz_App.github.io./static/css/main.94d0dca2.css.map",
-    "main.029340fd.js.map": "/Tanu4279/Quiz_App.github.io./static/js/main.029340fd.js.map",
-    "453.fc01f49c.chunk.js.map": "/Tanu4279/Quiz_App.github.io./static/js/453.fc01f49c.chunk.js.map"
+    "main.css": "/Tanu4279/Quiz_App.github.io/static/css/main.94d0dca2.css",
+    "main.js": "/Tanu4279/Quiz_App.github.io/static/js/main.7a0c7e0d.js",
+    "static/js/453.fc01f49c.chunk.js": "/Tanu4279/Quiz_App.github.io/static/js/453.fc01f49c.chunk.js",
+    "static/media/logo.svg": "/Tanu4279/Quiz_App.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tanu4279/Quiz_App.github.io/index.html",
+    "main.94d0dca2.css.map": "/Tanu4279/Quiz_App.github.io/static/css/main.94d0dca2.css.map",
+    "main.7a0c7e0d.js.map": "/Tanu4279/Quiz_App.github.io/static/js/main.7a0c7e0d.js.map",
+    "453.fc01f49c.chunk.js.map": "/Tanu4279/Quiz_App.github.io/static/js/453.fc01f49c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94d0dca2.css",
-    "static/js/main.029340fd.js"
+    "static/js/main.7a0c7e0d.js"
   ]
 }
